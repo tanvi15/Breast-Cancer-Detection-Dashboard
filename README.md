@@ -24,18 +24,3 @@ Machine Learning based dashboard for breast cancer diagnosis using the Wisconsin
 ## Model Performance
 Accuracy: 96.49%
 
-## Screenshots
-
-![Home](screenshots/home-dashboard.png)
-
-![Distribution](screenshots/diagnosis-distribution.png)
-
-![Feature Analysis](screenshots/feature-analysis.png)
-
-![Feature Relationship](screenshots/feature-relationship.png)
-
-![Heatmap](screenshots/correlation-heatmap.png)
-
-![Model](screenshots/ml-model-results.png)
-
-![Prediction](screenshots/prediction-interface.png)
