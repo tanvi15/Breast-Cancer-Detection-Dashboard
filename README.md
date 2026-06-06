@@ -24,18 +24,10 @@ Machine Learning based dashboard for breast cancer diagnosis using the Wisconsin
 ## Model Performance
 Accuracy: 96.49%
 
-## Screenshots
-![Home](screenshots/home-dashboard.png)
+## Project Demonstration
 
-![Distribution](screenshots/diagnosis-distribution.png)
+This project was developed as a machine learning dashboard for breast cancer diagnosis prediction using the Wisconsin Breast Cancer Dataset.
 
-![Feature Analysis](screenshots/feature-analysis.png)
+For demonstration screenshots, see the screenshots folder.
 
-![Feature Relationship](screenshots/feature-relationship.png)
-
-![Heatmap](screenshots/correlation-heatmap.png)
-
-![Model](screenshots/ml-model-results.png)
-
-![Prediction](screenshots/prediction-interface.png)
 
